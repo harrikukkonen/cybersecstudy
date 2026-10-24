@@ -1,2 +1,2 @@
 # cybersecstudy
-page used to return cybersec course assignments
+This page is used to return cybersec course assignments
